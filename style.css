@@ -1,0 +1,7 @@
+.largeText{
+    background-color:black;
+    box-shadow: 2px 4px 4px red;
+    color: aliceblue;
+    text-align: center;
+    border-radius: 5px;
+}
